@@ -1,2 +1,2 @@
 # Angular-project
-complted the task
+completed the task
